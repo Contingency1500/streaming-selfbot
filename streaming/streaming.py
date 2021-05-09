@@ -1,4 +1,4 @@
-#run start.bat or the python file
+=#run start.bat
 import discord
 from discord.ext import commands
 import json
